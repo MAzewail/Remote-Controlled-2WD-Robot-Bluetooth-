@@ -45,7 +45,7 @@ The circuit diagram above illustrates the connections between the microcontrolle
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/remote-controlled-2wd-robot.git
+   git clone https://github.com/MAzewail/remote-controlled-2wd-robot.git
    ```
 
 1. Connect the hardware components (microcontroller board, motor driver module, Bluetooth module, motors, etc.) to your microcontroller board based on the circuit diagram provided.
