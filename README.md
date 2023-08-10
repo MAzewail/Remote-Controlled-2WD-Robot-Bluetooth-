@@ -17,6 +17,8 @@ Welcome to the Remote Controlled 2WD Robot (Bluetooth) GitHub repository! This p
 
 The Remote Controlled 2WD Robot (Bluetooth) is designed to provide a wireless control interface for a 2WD robot. It utilizes Bluetooth communication to establish a connection between the robot and a mobile device or computer. You can control the movement of the robot remotely by sending commands over the Bluetooth connection.
 
+- [Tinkercad link](https://www.tinkercad.com/things/2bR3ZOxnB15)
+
 ## Features
 
 - Two-wheel drive robot with remote control capability.
@@ -35,6 +37,8 @@ To set up and run this project, you will need the following hardware components:
 - Breadboard or PCB for assembling the circuit.
 
 ## Circuit Diagram
+
+- [Tinkercad link](https://www.tinkercad.com/things/2bR3ZOxnB15)
 
 ![Circuit Diagram](https://github.com/MAzewail/Remote-Controlled-2WD-Robot-Bluetooth-/blob/main/Serial%202WD%20Task%20V2.png)
 
