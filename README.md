@@ -40,7 +40,7 @@ To set up and run this project, you will need the following hardware components:
 
 - [Tinkercad link](https://www.tinkercad.com/things/2bR3ZOxnB15)
 
-![Circuit Diagram](https://github.com/MAzewail/Remote-Controlled-2WD-Robot-Bluetooth-/blob/main/Serial%202WD%20Task%20V2.png)
+![Circuit Diagram](https://github.com/MAzewail/Remote-Controlled-2WD-Robot-Bluetooth-/blob/main/Copy%20of%20Serial%202WD%20Task%20V2.png)
 
 The circuit diagram above illustrates the connections between the microcontroller board, motor driver module, Bluetooth module, motors, and other components. Ensure that you make the appropriate connections based on the diagram when setting up the hardware.
 
