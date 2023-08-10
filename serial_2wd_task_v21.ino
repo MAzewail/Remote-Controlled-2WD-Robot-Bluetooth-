@@ -7,7 +7,7 @@ void setup()
 void loop()
 {
   char x=Serial.read();
-  for (byte i=0;i<4&&x!=0xFF;i++)digitalWrite(i+2,x&1<<i);
+  for (byte i=0;i<4&&x!=0xFFFF;i++)digitalWrite(i+2,x&1<<i);
 }  
 
 
